@@ -1,4 +1,4 @@
-# Social-distance-detection
+# Social-distancing-detection
 # For CPU:
 
 ## To run this code in your terminal:
